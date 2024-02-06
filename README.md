@@ -1,3 +1,3 @@
 # tarifs адаптивный сайт с тарифами для смартфонов
 
-![image] (./main.png)
+![image](./main.png)
